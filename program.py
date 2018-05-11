@@ -21,4 +21,4 @@ while guess != the_number:
     else:
         print('Finally you win!!')
 
-print(f'It took you {no_tries} tries to guess the number');
+print('It took you {no_tries} tries to guess the number');
